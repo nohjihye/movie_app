@@ -2,6 +2,7 @@ import React from "react";
 import PropType from "prop-types";
 import "./Movie.css";
 
+
 function Movie({year, title, summary, poster, genres}){
     return (
         <div className="movies movie">

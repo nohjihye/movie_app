@@ -11,7 +11,8 @@
     "prop-types": "^15.7.2",
     "react": "^16.13.0",
     "react-dom": "^16.13.0",
-    "react-scripts": "3.4.0"
+    "react-scripts": "3.4.0",
+    "styled-components": "^5.0.1"
   },
   "scripts": {
     "start": "react-scripts start",
@@ -34,5 +35,5 @@
       "last 1 safari version"
     ]
   },
-  "homepage" : "https://nohjihye.github.io/movie_app"
+  "homepage": "https://nohjihye.github.io/movie_app"
 }
